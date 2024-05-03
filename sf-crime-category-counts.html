@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.4.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="e6b569b5-05b5-4bf9-b7e7-5fe7fa9fc73b" data-root-id="p5359" style="display: contents;"></div>
+  
+    <script type="application/json" id="a7349860-e861-4adf-b052-4f05ec20bdea">
+      {"d5a9655a-8061-405f-a276-9c50f6015b24":{"version":"3.4.0","title":"Bokeh Application","roots":[{"type":"object","name":"Figure","id":"p5359","attributes":{"height":350,"x_range":{"type":"object","name":"FactorRange","id":"p5369","attributes":{"factors":["LARCENY/THEFT","ASSAULT","VEHICLE THEFT","DRUG/NARCOTIC","VANDALISM","BURGLARY","ROBBERY","WEAPON LAWS","TRESPASS","PROSTITUTION","STOLEN PROPERTY","DISORDERLY CONDUCT","DRUNKENNESS","DRIVING UNDER THE INFLUENCE"]}},"y_range":{"type":"object","name":"Range1d","id":"p5370","attributes":{"end":500000}},"x_scale":{"type":"object","name":"CategoricalScale","id":"p5371"},"y_scale":{"type":"object","name":"LinearScale","id":"p5372"},"title":{"type":"object","name":"Title","id":"p5362","attributes":{"text":"Crime Category Counts"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p5390","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p5356","attributes":{"selected":{"type":"object","name":"Selection","id":"p5357","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p5358"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAACQAAAAoAAAALAAAADAAAAA0AAAA="},"shape":[14],"dtype":"int32","order":"little"}],["Category",{"type":"ndarray","array":["LARCENY/THEFT","ASSAULT","VEHICLE THEFT","DRUG/NARCOTIC","VANDALISM","BURGLARY","ROBBERY","WEAPON LAWS","TRESPASS","PROSTITUTION","STOLEN PROPERTY","DISORDERLY CONDUCT","DRUNKENNESS","DRIVING UNDER THE INFLUENCE"],"shape":[14],"dtype":"object","order":"little"}],["Count",{"type":"ndarray","array":{"type":"bytes","data":"F0sHAIKMAgAU7QEAPcwBAB7AAQC7YwEAw9QAAAxSAAD6SgAAdUAAALosAADMJgAAICYAABQWAAA="},"shape":[14],"dtype":"int32","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p5391","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p5392"}}},"glyph":{"type":"object","name":"VBar","id":"p5387","attributes":{"x":{"type":"field","field":"Category"},"width":{"type":"value","value":0.9},"top":{"type":"field","field":"Count"},"line_color":{"type":"value","value":"white"},"fill_color":{"type":"field","field":"Category","transform":{"type":"object","name":"CategoricalColorMapper","id":"p5383","attributes":{"palette":["#5e4fa2","#3288bd","#66c2a5","#abdda4","#e6f598","#fee08b","#fdae61","#f46d43","#d53e4f","#9e0142"],"factors":{"type":"ndarray","array":["LARCENY/THEFT","ASSAULT","VEHICLE THEFT","DRUG/NARCOTIC","VANDALISM","BURGLARY","ROBBERY","WEAPON LAWS","TRESPASS","PROSTITUTION","STOLEN PROPERTY","DISORDERLY CONDUCT","DRUNKENNESS","DRIVING UNDER THE INFLUENCE"],"shape":[14],"dtype":"object","order":"little"}}}}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p5388","attributes":{"x":{"type":"field","field":"Category"},"width":{"type":"value","value":0.9},"top":{"type":"field","field":"Count"},"line_color":{"type":"value","value":"white"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"field","field":"Category","transform":{"id":"p5383"}},"fill_alpha":{"type":"value","value":0.1},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p5389","attributes":{"x":{"type":"field","field":"Category"},"width":{"type":"value","value":0.9},"top":{"type":"field","field":"Count"},"line_color":{"type":"value","value":"white"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"field","field":"Category","transform":{"id":"p5383"}},"fill_alpha":{"type":"value","value":0.2},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p5368","attributes":{"tools":[{"type":"object","name":"HoverTool","id":"p5395","attributes":{"renderers":"auto","tooltips":[["Category","@Category"],["Count","@Count"]]}}]}},"toolbar_location":null,"left":[{"type":"object","name":"LinearAxis","id":"p5378","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p5379","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p5380"},"major_label_policy":{"type":"object","name":"AllLabels","id":"p5381"}}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p5373","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p5374"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p5375"},"major_label_orientation":1.2,"major_label_policy":{"type":"object","name":"AllLabels","id":"p5376"}}}],"center":[{"type":"object","name":"Grid","id":"p5377","attributes":{"axis":{"id":"p5373"}}},{"type":"object","name":"Grid","id":"p5382","attributes":{"dimension":1,"axis":{"id":"p5378"}}},{"type":"object","name":"Legend","id":"p5393","attributes":{"visible":false,"items":[{"type":"object","name":"LegendItem","id":"p5394","attributes":{"label":{"type":"field","field":"Category"},"renderers":[{"id":"p5390"}]}}]}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('a7349860-e861-4adf-b052-4f05ec20bdea').textContent;
+              const render_items = [{"docid":"d5a9655a-8061-405f-a276-9c50f6015b24","roots":{"p5359":"e6b569b5-05b5-4bf9-b7e7-5fe7fa9fc73b"},"root_ids":["p5359"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>
