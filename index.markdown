@@ -13,6 +13,12 @@ title: Wildfires in Galicia
 <img src="images/wildfires.png" alt="Wildfires in Galicia" />
 
 <p style="text-align: center;"> <b>Figure 2: </b> </p>
-<iframe src='Galicia_Wildfires.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
+<iframe src='visuals/Galicia_Wildfires.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
+
+<p style="text-align: center;"> <b>Figure 3: </b> </p>
+<iframe src='visuals/Galicia_Wildfires_Clustered.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
+
+<p style="text-align: center;"> <b>Figure 4: </b> </p>
+<iframe src='visuals/monthly_frequency.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
 
 # References
