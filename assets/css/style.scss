@@ -10,8 +10,15 @@
     height: 580px;
 }
 
+
 .visuals {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.visuals-text {
+    display: flex;
+    justify-content: space-around;
     align-items: center;
 }
