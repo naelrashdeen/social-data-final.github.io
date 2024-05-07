@@ -96,28 +96,28 @@ This tool offers stakeholders the chance of actionable insights into future thre
 
 # References
 
-Cruz, Miguel G., og Martin E. Alexander. “The 10% Wind Speed Rule of Thumb for Estimating a Wildfire’s Forward Rate of Spread in Forests and Shrublands”. Annals of Forest Science, bd. 76, nr. 2, june 2019, s. 1–11. annforsci.biomedcentral.com, https://doi.org/10.1007/s13595-019-0829-8.
+[1] Cruz, Miguel G., og Martin E. Alexander. “The 10% Wind Speed Rule of Thumb for Estimating a Wildfire’s Forward Rate of Spread in Forests and Shrublands”. Annals of Forest Science, bd. 76, nr. 2, june 2019, s. 1–11. annforsci.biomedcentral.com, https://doi.org/10.1007/s13595-019-0829-8.
 
-Detecting forest fires with satellites (MODIS and VIIRS) | UN-SPIDER Knowledge Portal. https://www.un-spider.org/news-and-events/news/detecting-forest-fires-satellites-modis-and-viirs. As seen 7th may 2024.
+[2] Detecting forest fires with satellites (MODIS and VIIRS), UN-SPIDER Knowledge Portal. https://www.un-spider.org/news-and-events/news/detecting-forest-fires-satellites-modis-and-viirs. As seen 7th may 2024.
 
-“Forests Fires Map”. Civio, https://civio.es/en/spain-in-flames/forest-fires-map/. As seen 7th may 2024
+[3] “Forests Fires Map”. Civio, https://civio.es/en/spain-in-flames/forest-fires-map/. As seen 7th may 2024
 
-“Wildfires in Galicia”. Wikipedia, 1st april 2024. Wikipedia, https://en.wikipedia.org/w/index.php?title=Wildfires_in_Galicia&oldid=1216676461
+[4] “Wildfires in Galicia”. Wikipedia, 1st april 2024. Wikipedia, https://en.wikipedia.org/w/index.php?title=Wildfires_in_Galicia&oldid=1216676461
 
-Wildfire and Climate Change | U.S. Geological Survey. https://www.usgs.gov/science-explorer/climate/wildfire. As seen 7th may 2024.
+[5] Wildfire and Climate Change, U.S. Geological Survey. https://www.usgs.gov/science-explorer/climate/wildfire. As seen 7th may 2024.
 
-Earth Science Data Systems, NASA. MODIS | Earthdata. As seen 7th may 2024, https://www.earthdata.nasa.gov/sensors/modis.
+[6] Earth Science Data Systems, NASA. MODIS, Earthdata. As seen 7th may 2024, https://www.earthdata.nasa.gov/sensors/modis.
 
-Smith, Joseph M. VIIRS Instruments Become More Essential As Terra and Aqua Drift from Their Traditional Orbits | Earthdata. April 2022. www.earthdata.nasa.gov, https://www.earthdata.nasa.gov/learn/articles/modis-to-viirs-transition.
+[7] Smith, Joseph M. VIIRS Instruments Become More Essential As Terra and Aqua Drift from Their Traditional Orbits, Earthdata. April 2022. www.earthdata.nasa.gov, https://www.earthdata.nasa.gov/learn/articles/modis-to-viirs-transition.
 
-Laurent, Pierre, m.fl. “Varying Relationships between Fire Radiative Power and Fire Size at a Global Scale”. Biogeosciences, bd. 16, nr. 2, january 2019, s. 275–88. Copernicus Online Journals, https://doi.org/10.5194/bg-16-275-2019.
+[8] Laurent, Pierre, m.fl. “Varying Relationships between Fire Radiative Power and Fire Size at a Global Scale”. Biogeosciences, bd. 16, nr. 2, january 2019, s. 275–88. Copernicus Online Journals, https://doi.org/10.5194/bg-16-275-2019.
 
-Engel, Chermelle B., m.fl. “Fire Radiative Power (FRP) Values for Biogeographical Region and Individual Geostationary HHMMSS Threshold (BRIGHT) Hotspots Derived from the Advanced Himawari Imager (AHI)”. Remote Sensing, bd. 14, nr. 11th january 2022, s. 2540. www.mdpi.com, https://doi.org/10.3390/rs14112540.
+[9] Engel, Chermelle B., m.fl. “Fire Radiative Power (FRP) Values for Biogeographical Region and Individual Geostationary HHMMSS Threshold (BRIGHT) Hotspots Derived from the Advanced Himawari Imager (AHI)”. Remote Sensing, bd. 14, nr. 11th january 2022, s. 2540. www.mdpi.com, https://doi.org/10.3390/rs14112540.
 
-Forest fires in Galicia (Spain) - August 2006 - Fires - Natural Disasters - Earth Watching. https://earth.esa.int/web/earth-watching/natural-disasters/fires/content/-/asset_publisher/aRYs5Z37uM9K/content/forest-fires-in-galicia-spain-august-2006/index.html. As seen 7th may 2024
+[10] Forest fires in Galicia (Spain) - August 2006 - Fires - Natural Disasters - Earth Watching. https://earth.esa.int/web/earth-watching/natural-disasters/fires/content/-/asset_publisher/aRYs5Z37uM9K/content/forest-fires-in-galicia-spain-august-2006/index.html. As seen 7th may 2024
 
-Why Wildfires Are Breaking out in the “wrong” Countries. 27. july 2018. www.bbc.com, https://www.bbc.com/news/world-44941999.
+[11] Why Wildfires Are Breaking out in the “wrong” Countries. 27. july 2018. www.bbc.com, https://www.bbc.com/news/world-44941999.
 
-KelownaNow. “How the 30-30-30 Crossover Rule Affects the Threat of a Wildfire Sparking”. KelownaNow, https://www.kelownanow.com/watercooler/news/news/Okanagan/%20How_the_30_30_30_Crossover_Rule_affects_the_threat_of_a_wildfire_sparking/. As seen 7th may 2024.
+[12] KelownaNow. “How the 30-30-30 Crossover Rule Affects the Threat of a Wildfire Sparking”. KelownaNow, https://www.kelownanow.com/watercooler/news/news/Okanagan/%20How_the_30_30_30_Crossover_Rule_affects_the_threat_of_a_wildfire_sparking/. As seen 7th may 2024.
 
-“Galician Trees: Providing Shade Through the Ages”. Google Arts & Culture, https://artsandculture.google.com/story/galician-trees-providing-shade-through-the-ages/AQWxgSheI4y-AQ. As seen 7th may 2024
+[13] “Galician Trees: Providing Shade Through the Ages”. Google Arts & Culture, https://artsandculture.google.com/story/galician-trees-providing-shade-through-the-ages/AQWxgSheI4y-AQ. As seen 7th may 2024
