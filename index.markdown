@@ -10,8 +10,14 @@ title: Wildfires in Galicia
 
 _May 7, 2024_
 
+## Hello
+
+We hab akld m as.d as djkandkjsankdmasjd jasndkjasnd kjasndkjandjaksnd jandkjasbd
+
 <img src="images/1_fires_regions_Spain.png" alt="Wildfires in Galicia" />
-<p style="text-align: center"><b>Figure 1: </b></p>
+<p style="text-align: center"><b>Figure 1: </b>Distribution of all the regions in Galicia of mean burned area in Km2 and mean wildfire incidentns pr. km2</p>
+
+So this is an new paragrapgkasdlk kjasbdkja dajsndkj adm kjandkjnajsd
 
 <img src='images/2_treeloss_galicia.png' alt="Tree Loss" />
 <p style="text-align: center"> <b>Figure 2: </b> </p>
