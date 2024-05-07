@@ -1,0 +1,12 @@
+title,Regions with the most fire Alerts in Galicia, Spain
+unit,counts
+confidence,
+page_size,5
+period,week
+weeks,52
+dataset,modis
+layer_start_date,
+layer_end_date,
+date_downloaded,2024-05-04
+metadata,https://api.resourcewatch.org/v1/gfw-metadata/widget_fire_alert_location
+link,https://www.globalforestwatch.org/dashboards/country/ESP/12/?category=fires&location=WyJjb3VudHJ5IiwiRVNQIiwiMTIiXQ%3D%3D&map=eyJjYW5Cb3VuZCI6dHJ1ZX0%3D
