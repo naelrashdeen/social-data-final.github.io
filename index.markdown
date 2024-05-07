@@ -12,7 +12,7 @@ title: Wildfires in Galicia
 
 # Introduction
 
-Wildfires, historically a natural and integral part of many ecosystems, have been increasingly causing widespread destruction and are having a devastating impact on human settlements, economies and ecosystems alike. In Europe, this is particularly true in the Galicia region of Spain [Ref1](https://civio.es/en/spain-in-flames/forest-fires-map/), that have been identified as the most wildfire-prone area in Spain (see Figure 1).
+Wildfires, historically a natural and integral part of many ecosystems, have been increasingly causing widespread destruction and are having a devastating impact on human settlements, economies and ecosystems alike. In Europe, this is particularly true in the Galicia region of Spain [Ref1](https://civio.es/en/spain-in-flames/forest-fires-map/), that have been identified as the most wildfire-prone area in Spain (see **Figure 1**).
 
 <img src="images/1_fires_regions_Spain.png" alt="Wildfires in Galicia" />
 <p style="text-align: center"><b>Figure 1: </b>Mean burned area and wildfire incidents per km2 by region in Spain (2002-2023) showing regional variations in fire severity and frequency</p>
@@ -21,7 +21,7 @@ Wildfires in Galicia are not merely coincidental - it is rooted in a combination
 
 While natural factors have long influenced the wildfire regime in Galicia there have been an ever increasing rate of incidents - and the imprint of climate change is becoming increasingly evident. Rising temperatures, shifting precipitation patterns and periods of drought are currently being associated man-made climate change, which in turn are increasing the risk of wildfires (https://www.usgs.gov/science-explorer/climate/wildfire).
 
-The combination of warmer and drier conditions not only prolongs the wildfire season in Galicia, but also enhances the likelihood of increased intensification of wildfires in the future (see Figure 2).
+The combination of warmer and drier conditions not only prolongs the wildfire season in Galicia, but also enhances the likelihood of increased intensification of wildfires in the future (see **Figure 2**).
 
 <img src='images/2_treeloss_galicia.png' alt="Tree Loss" />
 <p style="text-align: center"> <b>Figure 2: </b>Annual tree cover loss in Galicia (Green), Spain from 2001 to 2023, distinguishing between total loss and loss specifically due to wildfires (Red), highlighting years with significant wildfire impact.</p>
@@ -47,17 +47,17 @@ This project will explore the role and frequency of wildfires in the region base
 
 # Analyzing the impact of wildfires in Galicia
 
-To build a foundation for exploring historical ramifications of wildfire incidents in Galica we’re utilizing data collected over decades. In figure 4 we’ve mapped out wildfire causing significant destruction of above 100 hectares. While showing individual incidents (hover over for details) the data also clearly correlates previous figures. We can for instance infer from this that while Ourense has a very high amount of wildfire incidents the subregion is less plagued by severe mass wildfire spread. (fig 2, 3, 3.1).
+To build a foundation for exploring historical ramifications of wildfire incidents in Galica we’re utilizing data collected over decades. In **Figure 4** we’ve mapped out wildfire causing significant destruction of above 100 hectares. While showing individual incidents (hover over for details) the data also clearly correlates previous figures. We can for instance infer from this that while Ourense has a very high amount of wildfire incidents the subregion is less plagued by severe mass wildfire spread. (fig 2, 3, 3.1).
 
 <iframe src='visuals/4_map_galicia.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
 <p style="text-align: center;"> <b>Figure 4: </b>Geospatial map illustrating historical wildfires in Galicia which burned more than 100 ha area.</p>
 
-Digging a bit deeper, Figure 5 illustrates a new measure of wildfire severity - Fire Radiative Power (FRP) in megawatts. FRP is the most effective indicator for analyzing fire severity in comparison to e.g., brightness. It is a direct measure of the radiant heat energy released. The heatmap reveals not just the geospatial points, but the intensity of fires regardless of burnt area - showcasing regions where wildfires with high intensity.
+Digging a bit deeper, **Figure 5** illustrates a new measure of wildfire severity - Fire Radiative Power (FRP) in megawatts. FRP is the most effective indicator for analyzing fire severity in comparison to e.g., brightness. It is a direct measure of the radiant heat energy released. The heatmap reveals not just the geospatial points, but the intensity of fires regardless of burnt area - showcasing regions where wildfires with high intensity.
 
 <iframe src='visuals/5_heatmap_galicia.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
 <p style="text-align: center;"> <b>Figure 5: </b>Heatmap of wildfire severity in Galicia from 2001-2022, categorized by Fire Radiative Power (FRP) in megawatts, illustrating areas with low, medium, and high wildfire intensity.</p>
 
-In the heat of the Galician summers, where the frequency and intensity of the wildfires peak, so does the carbon footprint. This is illustrated in Figure 6, where the drastic spikes in CO2 emissions emerge during July - September. The figure shows a distinct seasonal pattern with low emissions during the cooler and wet months and escalates as temperatures rise and conditions become dry.
+In the heat of the Galician summers, where the frequency and intensity of the wildfires peak, so does the carbon footprint. This is illustrated in **Figure 6**, where the drastic spikes in CO2 emissions emerge during July - September. The figure shows a distinct seasonal pattern with low emissions during the cooler and wet months and escalates as temperatures rise and conditions become dry.
 
 <iframe src='visuals/6_polarplot.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
 <p style="text-align: center;"> <b>Figure 6: </b>Polar-plot displaying the monthly distribution of CO2 emissions from wildfires in Galicia from 2002-2023, highlighting the peak emissions during the summer months.</p>
@@ -74,10 +74,24 @@ Building on top of our previous visualizations the correlation matrix offers an 
 <img src='images/9_correlation.png' alt="Correlation" />
 <p style="text-align: center;"> <b>Figure 9: </b>Correlation matrix displaying the relationship between fire alert counts and various weather parameters such as temperature, humidity, precipitation, and solar radiation - color intensities indicate the strength of correlation.</p>
 
+Through the lens of two chloropleth maps, **Figure 12** and **Figure 13**, we shed light on the pressing dangers of wildfires and the ecological preservation of the natural habitats that make up the subregions.
+
+As we can see below **Figure 12** showcases the ecological irreplacability scores. Derived from the IUCN Red List and the World Database on Protected Areas, these scores range from 0.2 to 0.9, where darker shades reveal regions of higher ecological value that are irreplaceable. These are areas for biodiversity to strive where unique species and habitats form the beautiful landscape.
+
 <iframe src='visuals/12_Irreplaceability_score_rank_map.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
 <p style="text-align: center;"> <b>Figure 12: </b>Chloropleth map of Galicia, showing ecological irreplaceability scores for various grid cells, based on criteria from the IUCN Red List and World Database on Protected Areas. The scores range from 0.2 to 0.9, with darker shades indicating higher irreplaceability.</p>
 
+Transitioning from the preservation of irreplaceable ecosystems, **Figure 13** illustrates the risk of wildfires - this time in red. This map shows the aggregated wildfire risk across Galicia, calculated as a percentage of higher-risk areas within each cell. Together these two figures shed light on a story of the reality and challenges faced in the subregions of Galicia.
+
 <iframe src='visuals/13_Aggregated_fire_risk_map.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
 <p style="text-align: center;"> <b>Figure 13: </b>Chloropleth map of Galicia, showing aggregated wildfire risk as a percentage of higher-risk areas in each cell. The gradient from light to dark red indicates increasing wildfire risk, based on modeling from the Copernicus Emergency Management Service.</p>
+
+In our efforts to increase wildfire awareness and response in Galicia we have developed a predictive machine learning model capable of forecasting future risks leveraging our already presented predictive analytics, historic trends and future real-time predictive weather forecasts.
+
+Our model is designed to forecast critical threshold values for weather parameters that we’ve shown correlates with wildfire incidents. The aim is to give users agency and allow stakeholders to proactively assess risks, effectively (and hopefully) leading to mitigation of incidents and/or damages incurred by wildfire incidents.
+
+The real-time weather forecasts allow us to predict the exact date and time when the region has a heightened risk. The model is interactive, allowing the user to hover over to get further details on the situation at hand. Once the critical threshold values are determined they are utilized to delineate red danger zones - giving a clear visual indication to the user.
+
+This tool offers stakeholders the chance of actionable insights into future threats and it is our hope that our model will support stakeholders on all levels in taking proactive steps to avoid wildfires, minimize damages and maximize protection on irreplaceable ecological zones in the future.
 
 # References
